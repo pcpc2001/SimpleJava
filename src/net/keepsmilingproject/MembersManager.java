@@ -39,6 +39,7 @@ public class MembersManager {
         // Member init example
         // 1) create new instance of the member:
         BobMember bob = new BobMember();
+        
         // 2) add member to the list:
         this.addMember(bob);
 

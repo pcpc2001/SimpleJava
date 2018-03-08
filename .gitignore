@@ -96,5 +96,3 @@ gradle-app.setting
 
 # eclipse project file
 .settings/
-.classpath
-.project
